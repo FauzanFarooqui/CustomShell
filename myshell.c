@@ -1,10 +1,9 @@
 /*
-Fauzan Nayeem Farooqui
-BT19CSE029
+Fauzan Farooqui
 2/9/2021
-Course: Operating Systems
+Course: Operating Systems (VNIT)
 Assignment: 1
-//Note: The template is exactly as given, so no extra functions were used. Control flow in main() to redirect 
+//Note: The code conforms to the template expected in the assignment, so no extra functions were used. Control flow in main() to redirect
 	//	to command executer is also retained.
 */
 #include <stdio.h>
