@@ -1,4 +1,4 @@
-# CustomShell
+# Linux Shell
 A Linux shell in C that uses multi-threading (using fork, exec, wait). Can handle most typical commands you give to your default terminal. 
 
 This is an assignment project for the Operating Systems course at VNIT.
