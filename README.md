@@ -1,5 +1,5 @@
 # Linux Shell
-A basic Linux shell in C that uses multi-threading in C POSIX. Can handle most typical commands you give to your default terminal. 
+A basic Linux shell in C that uses multithreading in C POSIX. Can handle most typical commands you give to your default terminal. 
 
 This is an assignment project for the Operating Systems course at VNIT.
 
